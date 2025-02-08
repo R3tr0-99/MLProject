@@ -1,4 +1,4 @@
-#from functionHelper import getState, cresteEmptyQTable, maxAction, save_obj
+from functionHelper import getState, createEmptyQTable, maxAction, save_obj
 import gymnasium as gym
 import random
 import numpy as np
